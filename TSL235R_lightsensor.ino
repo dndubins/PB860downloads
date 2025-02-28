@@ -1,5 +1,6 @@
 // TSL235R Light to Frequency Converter
 // Written by: David Dubins 27-Nov-18
+// Adapted from: Tillaart, R. Arduino Playground - TSL235R Light to Frequency sensor. https://playground.arduino.cc/Main/TSL235R (accessed February 22, 2019).
 // Last updated: 22-Dec-22
 //
 // Wiring:
