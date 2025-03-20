@@ -27,4 +27,4 @@ The file "Op-amp Graph Generator.xlsx" in this directory is an Excel spreadsheet
 * Transimpedance Amplifier
 * Transimpedance Amplifier + Bias
 
-It's the spreadsheet I wish I had when I started to learn about op-amps. It's by no means complete. There are many more configurations I'd like to add. There are also many mistakes in it, some of which I haven't discovered yet. I've also intentionally ignored imaginary numbers and phase shift for the filters.
+It's the spreadsheet I wish I had when I started to learn about op-amps. There are many more configurations I'd like to add. There are also many mistakes in it, some of which I haven't discovered yet. I've also intentionally ignored imaginary numbers and phase shift for the filters.
