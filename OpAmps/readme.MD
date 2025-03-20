@@ -6,6 +6,7 @@ The file "Op-amp Graph Generator.xlsx" in this directory is an Excel spreadsheet
 * Attenuator
 * Unity-Gain Low-pass Filter (LPF)
 * Unity-Gain High-pass Filter (HPF)
+* Unity-Gain Band-pass Filter (BPF)
 * Inverting Amplifier/Invertor
 * Inverting Aplifier + LPF
 * Inverting Aplifier + HPF
