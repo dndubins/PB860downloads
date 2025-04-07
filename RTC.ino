@@ -53,21 +53,21 @@ void loop() {
 
 String timeStamp(DateTime t) {
   String stamp="";
-  stamp+=String(t.year(), DEC);
+  stamp+=String(t.year(), DEC);              // add year to string
   stamp+="/";
   stamp+=String(t.month() < 10 ? "0" : "");  // print leading zero if needed
-  stamp+=String(t.month(), DEC);
+  stamp+=String(t.month(), DEC);             // add month to string
   stamp+="/";
-  stamp+=String(t.day() < 10 ? "0" : "");  // print leading zero if needed
-  stamp+=String(t.day(), DEC);
+  stamp+=String(t.day() < 10 ? "0" : "");    // print leading zero if needed
+  stamp+=String(t.day(), DEC);               // add day to string
   stamp+=" ";
-  stamp+=String(t.hour() < 10 ? "0" : "");  // print leading zero if needed
-  stamp+=String(t.hour(), DEC);
+  stamp+=String(t.hour() < 10 ? "0" : "");   // print leading zero if needed
+  stamp+=String(t.hour(), DEC);              // add hours to string
   stamp+=":";
   stamp+=String(t.minute() < 10 ? "0" : "");  // print leading zero if needed
-  stamp+=String(t.minute(), DEC);
+  stamp+=String(t.minute(), DEC);             // add minutes to string
   stamp+=":";
   stamp+=String(t.second() < 10 ? "0" : "");  // print leading zero if needed
-  stamp+=String(t.second(), DEC);
+  stamp+=String(t.second(), DEC);             // add seconds to string
   return stamp;
 }
