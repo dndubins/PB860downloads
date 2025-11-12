@@ -28,4 +28,4 @@ The file "Op-amp Graph Generator.xlsx" in this directory is an Excel spreadsheet
 * Transimpedance Amplifier
 * Transimpedance Amplifier + Bias
 
-It's the spreadsheet I wish I had when I started to learn about op-amps. There are many more configurations I'd like to add. There are also many mistakes in it, some of which I haven't discovered yet. I am slowly incorporating phase shifts into the spreadsheet. Currently, only Unity-Gain LPF and Unity-Gain HPF have a simulated phase-shift response.
+It's the spreadsheet I wish I had when I started to learn about op-amps. There are many more configurations I'd like to add. There are also many mistakes in it, some of which I haven't discovered yet. I am slowly incorporating phase shifts into the spreadsheet. Currently, only Unity-Gain LPF and Unity-Gain HPF have a simulated phase-shift in Vout.
