@@ -1,4 +1,4 @@
-// pHmeter.ino
+// pHmeter.ino: Report measured divs, volts, and pH to Serial Monitor
 // Bail-Out program for Activity 7-2
 // Author: D. Dubins
 // Date: 17-Nov-25
