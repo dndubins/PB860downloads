@@ -1,4 +1,4 @@
-// scale.ino
+// scale.ino:  Report measured divs, volts, and weight to Serial Monitor
 // Bail-Out program for Activity 7-1
 // Author: D. Dubins
 // Date: 17-Nov-25
@@ -54,3 +54,4 @@ void loop() {
   Serial.println(weight, 1);  // print weight to Serial Monitor
   delay(100);
 }  // End loop
+
