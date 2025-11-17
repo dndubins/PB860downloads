@@ -14,7 +14,6 @@
 // Note:
 // Connect MCU AREF pin to 3.3V.
 
-#define NUMREADS 100  // number of readings for data smoothing
 int weightPin = A1;
 int buttonPin = 4;
 
@@ -54,4 +53,5 @@ void loop() {
   Serial.println(weight, 1);  // print weight to Serial Monitor
   delay(100);
 }  // End loop
+
 
